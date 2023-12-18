@@ -1,0 +1,6 @@
+{
+  "standard": "MM/DD/YYYY",
+  "standard-with-time": "MM/DD/YYYY hh:mm A",
+  "date-picker.standard": "MM/dd/yyyy",
+  "date-picker.placeholder": "MM/DD/YYYY"
+}

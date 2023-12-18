@@ -1,0 +1,4 @@
+export enum SERVICE_REQUEST_FORM_STAGE {
+  'CREATING' = 'CREATING',
+  'PREVIEW' = 'PREVIEW',
+}

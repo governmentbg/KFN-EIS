@@ -1,0 +1,25 @@
+{
+  "error": "Грешка",
+  "errorCode":"Код на грешка:",
+  "status.403.title": "Липса на права",
+  "status.403.message": "Действието не може да бъде извършено поради липса на необходимите права.",
+  "status.404.title":"Страницата не е намерена",
+  "status.404.message":"Страницата, която търсите, изглежда не съществува.",
+  "status.500.title": "Нещо се обърка",
+  "status.500.message": "Моля, опитайте по-късно или се свържете с администратор.",
+  "requestFailed": "Неуспешна заявка",
+  "invalid.file.type": "Невалиден тип на файл",
+
+  "services.reports.daily.form.correspondence.thereIsNoCreatedCorrespondence":"Няма създадена преписка.",
+
+  "services.reports.daily.form.userData.thereIsNoPersonInfo":"Няма създадена преписка.",
+  "services.reports.daily.form.userData.thereAreNoPnlsAssigned":"На текущият потребител няма зададени поднадзорни лица.",
+  
+  "services.serviceRequest.form.documents.documentDescriptionRequired": "Полето 'Описание на документа' е задължително.",
+  "services.serviceRequest.form.documents.documentDescriptionLengthNotAllowed": "Полето 'Описание на документ' не може да съдържа повече от 1000 символа.",
+  "services.serviceRequest.form.documents.documentTypeInvalid": "Полето 'Тип на документ' е невалидно",
+
+  "errorDuringSigning": "Грешка по време на процеса подписване!",
+  "BISSServerWasNotFound": "Не е намерен BISS сървър!",
+  "mandatoryDocumentsAreMissing": "Моля, прикачете задължителните документи"
+}

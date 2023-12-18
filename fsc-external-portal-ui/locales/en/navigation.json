@@ -1,0 +1,12 @@
+{
+    "navigation.home": "Home",
+    "navigation.login": "Login",
+    "navigation.logout": "Logout",
+    "navigation.profile": "Profile",
+    "navigation.notifications": "Notifications",
+    "navigation.financialSupervisionCommission": "Financial supervision commision",
+    "navigation.loginPageMessage": "Login to the e-services portal",
+    "navigation.userSelect.category.individuals": "Individuals",
+    "navigation.userSelect.category.legalEntities": "Legal entities",
+    "navigation.showMoreButton.label": "Show more"
+}

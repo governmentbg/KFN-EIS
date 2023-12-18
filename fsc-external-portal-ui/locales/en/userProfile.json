@@ -1,0 +1,17 @@
+{
+  "title.label": "User profile",
+  "basicData.title.label": "User's basic data",
+  "basicData.personFirstName.label": "Name",
+  "basicData.personMiddleName.label": "Middle name",
+  "basicData.personLastName.label": "Last name",
+  "basicData.egn.label": "EGN",
+  "basicData.address.label": "Address",
+  "basicData.phoneNumber.label": "Phone",
+  "basicData.email.label": "Email",
+  "basicData.editButton.label": "Edit",
+  "basicData.saveButton.label": "Save",
+  "basicData.emailGroup.label": "Emails",
+  "basicData.phoneGroup.label": "Phone numbers",
+  "basicData.addressGroup.label": "Addresses",
+  "basicData.noData.label": "- No data -"
+}

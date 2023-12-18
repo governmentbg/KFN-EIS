@@ -1,0 +1,26 @@
+{
+  "error": "Error",
+  "errorCode":"Код на грешка:",
+  "status.403.title": "Unauthorized access",
+  "status.403.message": "You don't have permissions",
+  "status.404.title":"The page is not found",
+  "status.404.message":"The page you're looking for does not seem to exist",
+  "status.500.title": "Something went wrong",
+  "status.500.message": "Please try again later or try to connect with administrator",
+  "requestFailed": "Request Failed",
+  "invalid.file.type": "Invalid file type",
+
+  "services.reports.daily.form.correspondence.thereIsNoCreatedCorrespondence":"Няма създадена преписка",
+
+  "services.reports.daily.form.userData.thereIsNoPersonInfo":"There is no correspondence created",
+  "services.reports.daily.form.userData.thereAreNoPnlsAssigned":"Current user doesn't have assigned supervised person",
+  
+  "services.serviceRequest.form.documents.documentDescriptionRequired": "Field 'Document description' is required.",
+  "services.serviceRequest.form.documents.documentDescriptionLengthNotAllowed": "Field 'Document description' has more than 1000 symbols.",
+  "services.serviceRequest.form.documents.documentTypeInvalid": "Field 'Document type' is invalid",
+
+  "errorDuringSigning": "Error during the signing!",
+  "BISSServerWasNotFound": "The BISS server was not found!",
+  "mandatoryDocumentsAreMissing": "Please attach the mandatory documents"
+}
+

@@ -1,0 +1,56 @@
+{
+    "username": "Username",
+    "password":"Password",
+    "invalid.value":"Invalid value!",
+    "required.field":"The field is required!",
+    "required.field.array":"The table must contains almost one row!",
+    "reports.form.userData.name.label":"Name",
+    "reports.form.userData.individualData.label":"Individual data",
+    "reports.form.userData.additionalInformation.label":"Additional information",
+    "reports.form.userData.supervisedPersonData.label":"Supervised person data",
+    "reports.form.userData.legalEntity.label":"Legal entity",
+    "reports.form.userData.supervisedPerson.label":"Supervised person",
+    "reports.form.userData.firstName.label":"First name",
+    "reports.form.userData.surname.label": "Surname",
+    "reports.form.userData.lastName.label":"Last name",
+    "reports.form.userData.address.label":"Address",
+    "reports.form.userData.email.label":"Email",
+    "reports.form.userData.eikBulstat.label":"EIK/BULSTAT",
+    "reports.form.userData.reportType.label":"Report type",
+    "reports.form.userData.reportPeriod.label":"Report period",
+    "reports.form.userData.date.label":"Date",
+
+    "reports.form.userData.name.required.message":"The field 'Name' is required",
+    "reports.form.userData.individualData.required.message":"The field 'Individual data' is required",
+    "reports.form.userData.additionalInformation.required.message":"The field 'Additional information' is required",
+    "reports.form.userData.supervisedPersonData.required.message":"The field 'Supervised person data' is required",
+    "reports.form.userData.legalEntity.required.message":"The field 'Legal entity' is required",
+    "reports.form.userData.supervisedPerson.required.message":"The field 'Supervised person' is required",
+    "reports.form.userData.firstName.required.message":"The field 'First name' is required",
+    "reports.form.userData.surname.required.message": "The field 'Surname' is required",
+    "reports.form.userData.lastName.required.message":"The field 'Last name' is required",
+    "reports.form.userData.address.required.message":"The field 'Address' is required",
+    "reports.form.userData.email.required.message":"The field 'Email' is required",
+    "reports.form.userData.eikBulstat.required.message":"The field 'EIK/BULSTAT' is required",
+    "reports.form.userData.reportType.required.message":"The field 'Report type' is required",
+    "reports.form.userData.reportPeriod.required.message":"The field 'Report period' is required",
+    "reports.form.userData.date.required.message":"The field 'Date' is required",
+
+
+    "reports.form.documents.requiredDocumentsList.label":"Required documents list",
+    "reports.form.documents.addDocumentButton.label":"Add document",
+    "reports.form.documents.uploadedDocuments.label":"Uploaded documents",
+    "reports.form.documents.addingDocumentsToAnReport.label":"Adding documents to an report",
+    "reports.form.documents.documentType.label":"Document type",
+    "reports.form.documents.description.label":"Description",
+    "reports.form.documents.documentTypeSelection.label":"Document type selection",
+    "reports.form.documents.documentDescription.label":"Document description",
+    "reports.form.documents.fileUpload.label":"File upload",
+    "reports.form.documents.signButton.label":"Sign",
+    "reports.form.documents.confirmButton.label":"Confirm",
+
+    "reports.form.documents.error.missingRequiredDocuments.label":"Required documents are missing!"
+
+
+}
+  

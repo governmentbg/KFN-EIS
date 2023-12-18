@@ -1,0 +1,96 @@
+{
+    "services.reports.financeReport.daily.header.label":"Sending daily finance report",
+
+    "services.reports.financeReport.daily.form.step.generalReportInformation.label":"General report information",
+    "services.reports.financeReport.daily.form.step.addingDocument.label":"Add a document",
+    "services.reports.financeReport.daily.form.step.reviewAndSendingReport.label":"Review and report",
+
+    "services.reports.financeReport.daily.form.userData.ExistingCorrespondencePromptModal.title.label":"Creating financial report",
+    "services.reports.financeReport.daily.form.userData.ExistingCorrespondencePromptModal.content.label":"You have an incomplete reporting process. Would you like to continue it or create a new one?",
+    "services.reports.financeReport.daily.form.userData.ExistingCorrespondencePromptModal.actionButton.createNew.label":"Create new",
+    "services.reports.financeReport.daily.form.userData.ExistingCorrespondencePromptModal.actionButton.continue.label":"Continue",
+
+
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.column.dataTime.label":"Date and time",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.column.documentType.label":"Document type",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.column.documentDescription.label":"Document description",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.column.documentName.label":"Document name",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.column.actions.label":"Actions",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.action.previewDocument.label":"Preview document",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.dataGrid.action.deleteDocument.label":"Delete document",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.fileValidationErrorTitle.label":"The file has the following errors",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.fileValidationErrorMessage.lineNumber.label":"Line number",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.fileValidationErrorMessage.columnNumber.label":"Column number",
+    "services.reports.financeReport.daily.form.documents.uploadingDocuments.fileValidationErrorMessage.message.label":"Error info",
+
+    "services.reports.financeReport.daily.form.review.dataGrid.column.dataTime.label":"Date and time",
+    "services.reports.financeReport.daily.form.review.dataGrid.column.documentType.label":"Document type",
+    "services.reports.financeReport.daily.form.review.dataGrid.column.documentDescription.label":"Document description",
+    "services.reports.financeReport.daily.form.review.dataGrid.column.documentName.label":"Document name",
+    "services.reports.financeReport.daily.form.review.dataGrid.column.actions.label":"Actions",
+    "services.reports.financeReport.daily.form.review.dataGrid.action.previewDocument.label":"Preview document",
+    "services.reports.financeReport.daily.form.review.dataGrid.action.deleteDocument.label":"Delete document",
+
+    "services.reports.financeReport.daily.form.actionButton.back.label":"Back",
+    "services.reports.financeReport.daily.form.actionButton.next.label":"Next",
+    "services.reports.financeReport.daily.form.actionButton.submit.label":"Submit",
+
+
+    "services.publicRegister.title":"Public register",
+    "services.publicRegister.dataGrid.column.pnlName.label":"PNL Name",
+    "services.publicRegister.dataGrid.column.eikEgn.label":"EIC",
+    "services.publicRegister.dataGrid.column.leiCode.label":"LEI code",
+    "services.publicRegister.dataGrid.column.regOfficeAddress.label":"Headquarters",
+    "services.publicRegister.dataGrid.column.mailingAddress.label":"Mailing address",
+    "services.publicRegister.dataGrid.column.managementAddress.label":"Management address",
+    "services.publicRegister.dataGrid.column.email.label":"Email",
+    "services.publicRegister.dataGrid.column.website.label":"Internet address",
+    "services.publicRegister.dataGrid.column.phoneNumber.label":"Phone number",
+    "services.publicRegister.dataGrid.column.fax.label":"Fax",
+    "services.publicRegister.dataGrid.column.registersIn.label":"Registers in which the person is kept",
+
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorTitle.label":"The file has the following errors",
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.lineNumber.label":"Line number",
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.message.label":"Error info",
+
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.theFieldDocumentTypeIsRequired.label":"The field 'Document type' is required",
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.theFieldDocumentDescriptionIdRequired.label":"The field 'Document description' is required",
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.theFieldDocumentDescriptionHasReachedMaxLength.label":"The field's max length is {{documentDescriptionMaxLength}}",
+    "services.serviceRequest.documents.uploadModal.fileValidationErrorMessage.uploadingOrGeneratingFileIsRequired.label":"Uploading a file is required",
+
+    "services.serviceRequest.documents.uploadModal.documentCreating.label":"Document creating",
+    "services.serviceRequest.documents.uploadModal.documentType.label":"Document type",
+    "services.serviceRequest.documents.uploadModal.description.label":"Description",
+    "services.serviceRequest.documents.uploadModal.documentDescription.label":"Document description",
+    "services.serviceRequest.documents.uploadModal.uploadDocument.label":"Upload document",
+    "services.serviceRequest.documents.uploadModal.uploadDocuments.label":"Upload documents",
+    "services.serviceRequest.documents.uploadModal.uploadMoreDocument.label": "Upload another document",
+    "services.serviceRequest.documents.uploadModal.uploadFile.label":"Upload file",
+    "services.serviceRequest.documents.uploadModal.downloadAttachment.label":"Download attachment",
+    "services.serviceRequest.documents.uploadModal.deleteAttachment.label":"Delete attachment",
+    "services.serviceRequest.documents.uploadModal.documentTypeSelect.label":"Document type",
+    "services.serviceRequest.documents.uploadModal.fillFormForFileGenerating.label":"Fill the form for file generating",
+    "services.serviceRequest.documents.uploadModal.fileGeneration.label":"File generating",
+    "services.serviceRequest.documents.uploadModal.generate.label":"Generate",
+    "services.serviceRequest.documents.uploadModal.areYouSureYouWantToReplaceTheAttachedFile.label":"Are you sure you want to replace the attached file",
+    "services.serviceRequest.documents.uploadModal.editTheAttachedFile.label":"Edit the attached file",
+    "services.serviceRequest.documents.uploadModal.editingTheAttachedFile.label":"Editing the attached file",
+    "services.serviceRequest.documents.uploadModal.documentWithSuchTypeExists":"Document with such type exists",
+    "services.serviceRequest.documents.uploadModal.doYouWantToReplaceIt":"Do you want to replace it",
+
+    "services.serviceRequest.firstStep.existingServiceRequestPromptModal.existingProcess.label":"Existing process",
+    "services.serviceRequest.firstStep.existingServiceRequestPromptModal.youHaveAnUnfinishedProcessOn.label":"You have an unfinished process on",
+    "services.serviceRequest.firstStep.existingServiceRequestPromptModal.currentService.label":"Current service",
+    "services.serviceRequest.firstStep.existingServiceRequestPromptModal.doYouWantToContinueItOrCreateNewOne.label":"Do you want to continue it or create a new one",
+
+    "services.secondStep.documentTypes.downloadSpecialDocumentsTemplate": "Download special template",
+
+    "services.pensionShare.dataGrid.column.personName.label":"POC",
+    "services.pensionShare.dataGrid.column.dpf.label":"DPF",
+    "services.pensionShare.dataGrid.column.ppf.label":"PPF",
+    "services.pensionShare.dataGrid.column.upf.label":"UPF",
+    "services.pensionShare.dataGrid.column.dpfps.label":"DPFPS",
+    "services.pensionShare.subHeaderLabel.label":"Value of one share for",
+
+    "services.specialDocumentsTable.description": "Please download, fill and attach the following documents when submitting the service. This would ensure faster processing by the Financial Supervision Commission."
+}
