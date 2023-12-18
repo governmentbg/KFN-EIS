@@ -1,0 +1,13 @@
+{
+    "navigation.home": "Начало",
+    "navigation.login": "Вход",
+    "navigation.logout": "Изход",
+    "navigation.profile": "Профил",
+    "navigation.notifications": "Известия",
+    "navigation.financialSupervisionCommission": "Комисия за финансов надзор",
+    "navigation.loginPageMessage": "Вход в портала за електронни услуги",
+    "navigation.userSelect.category.individuals":"Физически лица",
+    "navigation.userSelect.category.legalEntities":"Юридически лица",
+    "navigation.showMoreButton.label":"Покажи повече"
+
+}

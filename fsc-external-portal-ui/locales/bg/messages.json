@@ -1,0 +1,6 @@
+{
+    "kfnWelcomeMessage":"Добре дошли в портала за електронни услуги на КФН",
+    "documentsHintMessage":"Можете да прикачите повече от едно допълнително приложение!",
+    "mainLegendMessage": "Задължителен документ!",
+    "serviceRequest.contextChangeDuringTheProcess": "Промяна на контекст. Текущото заявление ще бъде запазено като чернова."
+}

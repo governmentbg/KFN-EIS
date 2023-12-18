@@ -1,0 +1,6 @@
+{
+    "kfnWelcomeMessage":"Welcome to the KFN public portal",
+    "documentsHintMessage":"More than one additional document can be added",
+    "mainLegendMessage": "Mandatory document!",
+    "serviceRequest.contextChangeDuringTheProcess": "The context was changed. Current report will be saved as draft."
+}

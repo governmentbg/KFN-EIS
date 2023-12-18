@@ -1,0 +1,17 @@
+{
+  "title.label": "Потребителски профил",
+  "basicData.title.label": "Данни за физическо лице",
+  "basicData.personFirstName.label": "Име",
+  "basicData.personMiddleName.label": "Презиме",
+  "basicData.personLastName.label": "Фамилия",
+  "basicData.egn.label": "ЕГН",
+  "basicData.address.label": "Адрес",
+  "basicData.phoneNumber.label": "Телефон",
+  "basicData.email.label": "Електронна поща",
+  "basicData.editButton.label": "Редактирай",
+  "basicData.saveButton.label": "Запази",
+  "basicData.emailGroup.label": "Електронни адреси",
+  "basicData.phoneGroup.label": "Телефонни номера",
+  "basicData.addressGroup.label": "Адреси",
+  "basicData.noData.label": "- Няма налична информация -"
+}
